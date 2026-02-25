@@ -34,9 +34,17 @@ The models demonstrated exceptional accuracy, particularly the contextual Deep L
 
 
 Model,Input Feature,Accuracy,F1-Score (Macro)
+
+
 Logistic Regression (TF-IDF),Full Text,99.0%,99.0%
+
+
 Logistic Regression (TF-IDF),Title Only,94.0%,94.0%
+
+
 BERT (Fine-Tuned),Title Only,98.6%,98.7%
+
+
 BERT (Fine-Tuned),Full Text,99.9%,99.9%
 
 
